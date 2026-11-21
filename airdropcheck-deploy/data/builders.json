@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "discord_id": "871708531643019264",
+    "wallet": "0x14421234567890abcdef1234567890abcdef3a3c",
+    "label": "Core Contributor #1 (ACC C)"
+  },
+  {
+    "id": 2,
+    "discord_id": "//987654321098765432",
+    "wallet": null,
+    "label": "Community Mod Discord Only (Example)"
+  },
+  {
+    "id": 3,
+    "discord_id": "//",
+    "wallet": "0x14421234567890abcdef1234567890abcdef3a3c",
+    "label": "EVM Ecosystem Grantee (Example)"
+  },
+  {
+    "id": 4,
+    "discord_id": "//112233445566778899",
+    "wallet": "0xabcdef1234567890abcdef1234567890abcdef12",
+    "label": "Hackathon Winner 2026 (Example)"
+  }
+]
